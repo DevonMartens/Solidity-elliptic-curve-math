@@ -1,0 +1,3 @@
+[submodule "rationalAdd/lib/forge-std"]
+	path = rationalAdd/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
