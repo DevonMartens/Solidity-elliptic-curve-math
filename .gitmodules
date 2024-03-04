@@ -1,3 +1,6 @@
 [submodule "rationalAdd/lib/forge-std"]
 	path = rationalAdd/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "scalarMul/lib/forge-std"]
+	path = scalarMul/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
